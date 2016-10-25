@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartWebDbView", "SmartWebDbView\SmartWebDbView.csproj", "{EAD3AD21-DC29-4026-BC4E-85D11839B4C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Run", "Run\Run.csproj", "{8352B5C3-104E-4687-83D9-7CAA43B622BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAD3AD21-DC29-4026-BC4E-85D11839B4C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAD3AD21-DC29-4026-BC4E-85D11839B4C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAD3AD21-DC29-4026-BC4E-85D11839B4C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAD3AD21-DC29-4026-BC4E-85D11839B4C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8352B5C3-104E-4687-83D9-7CAA43B622BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8352B5C3-104E-4687-83D9-7CAA43B622BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8352B5C3-104E-4687-83D9-7CAA43B622BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8352B5C3-104E-4687-83D9-7CAA43B622BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

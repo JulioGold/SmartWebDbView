@@ -1,0 +1,31 @@
+﻿INSERT INTO Product(Description, Price)
+SELECT 'Product 1' AS Description, 1.1 AS Price UNION
+SELECT 'Product 2' AS Description, 2.2 AS Price UNION
+SELECT 'Product 3' AS Description, 3.3 AS Price UNION
+SELECT 'Product 4' AS Description, 4.4 AS Price UNION
+SELECT 'Product 5' AS Description, 5.5 AS Price UNION
+SELECT 'Product 6' AS Description, 6.6 AS Price UNION
+SELECT 'Product 7' AS Description, 7.7 AS Price UNION
+SELECT 'Product 8' AS Description, 8.8 AS Price UNION
+SELECT 'Product 9' AS Description, 9.9 AS Price UNION
+SELECT 'Product 10' AS Description, 10.10 AS Price UNION
+SELECT 'Product 11' AS Description, 11.11 AS Price UNION
+SELECT 'Product 12' AS Description, 12.12 AS Price UNION
+SELECT 'Product 13' AS Description, 13.13 AS Price UNION
+SELECT 'Product 14' AS Description, 14.14 AS Price UNION
+SELECT 'Product 15' AS Description, 15.15 AS Price UNION
+SELECT 'Product 16' AS Description, 16.16 AS Price UNION
+SELECT 'Product 17' AS Description, 17.17 AS Price UNION
+SELECT 'Product 18' AS Description, 18.18 AS Price UNION
+SELECT 'Product 19' AS Description, 19.19 AS Price UNION
+SELECT 'Product 20' AS Description, 20.20 AS Price UNION
+SELECT 'Product 21' AS Description, 21.21 AS Price UNION
+SELECT 'Product 22' AS Description, 22.22 AS Price UNION
+SELECT 'Product 23' AS Description, 23.23 AS Price UNION
+SELECT 'Product 24' AS Description, 24.24 AS Price UNION
+SELECT 'Product 25' AS Description, 25.25 AS Price UNION
+SELECT 'Product 26' AS Description, 26.26 AS Price UNION
+SELECT 'Product 27' AS Description, 27.27 AS Price UNION
+SELECT 'Product 28' AS Description, 28.28 AS Price UNION
+SELECT 'Product 29' AS Description, 29.29 AS Price UNION
+SELECT 'Product 30' AS Description, 30.30 AS Price
